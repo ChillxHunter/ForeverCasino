@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: |cffffc566Forever Casino|r
+## Notes: Coin Toss and Deathroll, solo and two-player modes, individual Ready confirmations and an 18+ entry screen and persistent W/D/L scoreboard.
+## Author: Community Addon
+## Version: 1.4.0
+## SavedVariables: ForeverCasinoDB
+
+Core.lua
+UI.lua
