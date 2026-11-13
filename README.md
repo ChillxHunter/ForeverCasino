@@ -1,8 +1,12 @@
 # Forever Casino — World of Warcraft Forever
 
-## Latest version: 1.4.1
+## Latest version: 1.5.0
 
-**[Download Forever Casino v1.4.1 (ZIP)](https://github.com/ChillxHunter/ForeverCasino/raw/refs/heads/main/ForeverCasino_v1.4.1_Minimap_Scoreboard_Fix.zip)**
+**[Download Forever Casino v1.5.0 (ZIP)](https://raw.githubusercontent.com/ChillxHunter/ForeverCasino/main/ForeverCasino_v1.5.0_Animated_Rolls_Minimap.zip)**
+
+What's new: circular minimap icon (**click** to open; **Alt + drag** to move it outside the minimap ring), animated dice and coin tosses with a large on-screen result, and local chat announcements **after** the reveal. Existing win/draw/loss records are preserved.
+
+**Important:** The addon uses locally generated random results, not the game's server /roll. The addon can delay its own chat message but cannot delay a native WoW /roll message. Multiplayer requires both players to use v1.5.0.
 
 A recreational World of Warcraft addon for **Coin Toss** (best of 1, 3, or 5) and **Deathroll** (start at d1000; alternate turns until someone rolls 1 and loses).
 
